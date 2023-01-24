@@ -17,9 +17,13 @@ em especial, cobertura de esgoto.
 * [Relatório Variáveis Censo Brasileiro](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/OOBr_Dados_Socio_Economicos-CENSO.pdf)
 * [Relatório Variáveis Geoses](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/OOBr_Dados_Socio_Economicos-GEOSES.pdf) 
 5. Propor formato de relatório interativo (Web Dashboard).
+* [Código Fonte](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/app-geoses-responsive-collapsible-sidebar.zip)
+* Inicial: ![Snap Shot do Painel](./home_painel_oobr_beta.png)
 6. Acionabilidade e Acessibilidade dos Indicadores: Painel/Dashboard - inspiração o IMAPI (https://imapi.org); API de consulta/consumo de informação.
-6. Implantar arquitetura de coleta e processamento automático das informações necessárias aos indicadores.
-7. Implementar arquitetura de compartilhamento de informação dos indicadores por meio de consultas web no
-formato de API.
-8. Disponibilizar um Painel de Indicadores Interativo, com base no conjunto de informações dos indicadores
+7. Implantar arquitetura de coleta e processamento automático das informações necessárias aos indicadores.
+* A implementação do Item 1 contém o script de aquisição dos dados. Uma vez configurado no agendador de tarefas de um servidor, cumpre a proposição deste tópico. Haja visto que não foi designado formalmente um servidor de internet para configuração do serviço, a tarefa está parcialmente completa. 
+8. Implementar arquitetura de compartilhamento de informação dos indicadores por meio de consultas web no formato de API.
+* Uma vez configurado no agendador de tarefas de um servidor, cumpre a proposição deste tópico. Haja visto que não foi designado formalmente um servidor de internet para configuração do serviço, a tarefa está parcialmente completa.  
+9. Disponibilizar um Painel de Indicadores Interativo, com base no conjunto de informações dos indicadores
 estabelecidos.
+[Código Fonte](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/app-geoses-responsive-collapsible-sidebar.zip)
