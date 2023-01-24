@@ -9,7 +9,7 @@ Definição dos Indicadores Obstétricos níveis estadual e municipal - pelo mé
 bases: SINASC, CNES por meio do PCDaS.
 * [Jupyter-Notebook - Procedimentos de Aquisição e Processamento dos Dados](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/ETL-SIM-SINASC-GeoSES-Polis-ETLCNES-ETLSIH%20-%20OOBr.ipynb)
 * [Jupyter-Notebook - Processamento dos Dados de Dados Ambientais](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/Ambientais%20OOBR.ipynb)
-* []
+* [Jupyter-Notebook - Tutorial Geração de Mapas do Brasil](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/OOBr%20-%20Tutorial%20Gera%C3%A7%C3%A3o%20de%20Mapa%20dos%20Estados%20Brasileiros%20em%20Python.ipynb)
 2. Associação das variáveis (Socioeconômicos - IDH, IDHM, Indicadores de desigualdade, Saneamento etc)
 para geração de indicadores. Buscar fontes complementares, exemplo: Atlas Brasil -http://www.atlasbrasil.org.br/,
 em especial, cobertura de esgoto.
