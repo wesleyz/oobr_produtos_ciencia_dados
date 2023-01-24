@@ -7,6 +7,7 @@ Repositório de Prestação de Conta da Atividade de Cientista de Dados
 * Definição dos Indicadores Obstétricos níveis estadual e municipal - pelo método SMART.
 * 1.1 Definir e documentar processo de coleta de dados relacionados à nascidos vivos e mortalidade nas
 bases: SINASC, CNES por meio do PCDaS.
+* [Jupyter-Notebook - Procedimentos de Aquisição e Processamento dos Dados](https://github.com/wesleyz/oobr_produtos_ciencia_dados/blob/main/ETL-SIM-SINASC-GeoSES-Polis-ETLCNES-ETLSIH%20-%20OOBr.ipynb)
 * 1.2 Associação das variáveis (Socioeconômicos - IDH, IDHM, Indicadores de desigualdade, Saneamento etc)
 para geração de indicadores. Buscar fontes complementares, exemplo: Atlas Brasil -http://www.atlasbrasil.org.br/,
 em especial, cobertura de esgoto.
