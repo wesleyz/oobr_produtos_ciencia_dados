@@ -4,7 +4,6 @@ Repositório de Prestação de Conta da Atividade de Cientista de Dados
 ## Chamada MCTI/CNPq/MS/SCTIE/Decit/Fundação Bill & Melinda Gates No 31/2020
 
 
-
 * Definição dos Indicadores Obstétricos níveis estadual e municipal - pelo método SMART.
 * 1.1 Definir e documentar processo de coleta de dados relacionados à nascidos vivos e mortalidade nas
 bases: SINASC, CNES por meio do PCDaS.
